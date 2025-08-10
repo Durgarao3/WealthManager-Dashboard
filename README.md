@@ -40,10 +40,11 @@ The backend serves API endpoints from sample Indian stock data, while the fronte
 ## 📷 Screenshots
 
 ### Dashboard Overview
-![Dashboard](screenshots/Allocation.png)
+![Dashboard](screenshots/Dashboard1.png)
+![Dashboard](screenshots/Dashboard2.png)
 
 ### Allocation Charts
-![Allocation](screenshots/allocation.png)
+![Allocation](screenshots/Allocation.png)
 
 ---
 
