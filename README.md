@@ -2,7 +2,7 @@
 
 A full-stack fintech dashboard to visualize investment portfolio data using **React** (frontend) and **Node.js/Express** (backend).
 
----
+--- 
 
 ## 📌 Overview
 This dashboard allows users to visualize their investment portfolio with **sector allocation**, **market cap distribution**, **performance comparison**, and **top/worst performers**.  
